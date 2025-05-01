@@ -31,6 +31,9 @@ To encourage daily positivity and mental wellness through a decentralized system
 ### Contract Address: CC745G2WSR4AKEEIKLKQ3JGDRIYXXYSRPMJUPRMOKP3I2NSJOBKUHZ2M
 This Soroban contract includes:
 
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/e7484dd5-2b14-404e-b141-5aaf57af3de0" />
+
+
 ### 1. `add_affirmation(user: Address, affirmation: String)`
 Stores a new affirmation for the user.
 
